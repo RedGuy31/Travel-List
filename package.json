@@ -1,5 +1,6 @@
 {
   "name": "travel-list",
+  "author": "Irakli Maisuradze",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
